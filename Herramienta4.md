@@ -25,12 +25,12 @@ Tras completar la descarga, descomprimimos la carpeta, buscamos el archivo Cineb
 
 En Cinebench podemos encontrar tres secciones principales. La primera nos permite hacer un test de rendimiento tanto de la CPU como de la GPU para ver qué tan bien funcionan. La segunda muestra información sobre los componentes de nuestro equipo y el sistema operativo. Por último, la tercera sección nos ofrece un ranking donde podemos comparar el rendimiento de nuestra CPU y GPU con el de otros modelos.
 
-![total](image-5.png)
+![total](assets/CINE/Captura%20de%20pantalla%202025-04-03%20164702.png)
 
 **1. Prueba de Rendimiento de un Solo Núcleo (Single-Core)**
 La prueba de rendimiento de un solo núcleo mide la capacidad de tu CPU para realizar tareas de un solo hilo. Este tipo de tareas es común en muchas aplicaciones antiguas o menos paralelizadas. En **Cinebench**, la prueba de un solo núcleo se realiza presionando el botón de **Single-Core**. Al finalizar, el programa te dará una puntuación que refleja cuán eficiente es tu CPU para este tipo de tareas.
 
-![SingleCore](image-8.png)
+![SingleCore](assets/CINE/Captura%20de%20pantalla%202025-04-03%20165342.png)
 
 ---
 
@@ -38,7 +38,7 @@ La prueba de rendimiento de un solo núcleo mide la capacidad de tu CPU para rea
 
 Esta prueba utiliza todos los núcleos de la CPU para realizar un trabajo más intensivo. Se enfoca en tareas que pueden ser paralelizadas, como la renderización de un video o el procesamiento de datos masivos. La puntuación obtenida en esta prueba es una buena medida de la capacidad de tu CPU para manejar trabajos pesados de múltiples hilos.
 
-![Multicore](image-7.png)
+![Multicore](assets/CINE/Captura%20de%20pantalla%202025-04-03%20165342.png)
 
 ---
 
@@ -46,7 +46,7 @@ Esta prueba utiliza todos los núcleos de la CPU para realizar un trabajo más i
 
 **Cinebench** también incluye una prueba para evaluar el rendimiento de la GPU utilizando la API **Vulkan** (en Windows) o **Metal** (en macOS). Esta prueba simula una carga de trabajo 3D compleja para evaluar cómo la tarjeta gráfica maneja tareas de renderizado. El rendimiento gráfico se mide en cuadros por segundo (FPS), y la puntuación obtenida te da una idea de cuán bien está trabajando tu GPU en tareas gráficas intensivas.
 
-![GPU](image-9.png)
+![GPU](assets/CINE/Captura%20de%20pantalla%202025-04-03%20165421.png)
 
 ---
 
