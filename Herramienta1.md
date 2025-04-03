@@ -11,7 +11,9 @@ Además, CPU-Z ofrece datos sobre la memoria RAM, como su tipo, capacidad, frecu
 ## 2.Descarga e Instalación de la Herramienta
 
 Para instalar esta herramienta, primero debemos acceder a la página oficial de [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html).Una vez en el sitio web, descargaremos la versión **"Classic Version Setup"** .
+
 ![alt text](image-4.png)
+
 ![alt text](image-3.png)
 
  Tras completar la descarga, ejecutaremos el archivo de instalación y seguiremos los pasos del asistente, configurándolo según nuestras preferencias. Durante el proceso, el asistente nos solicitará:
