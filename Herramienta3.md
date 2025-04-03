@@ -12,7 +12,7 @@ Con **WizTree**, los usuarios pueden identificar archivos y carpetas que ocupan 
 
 Para instalar esta herramienta, primero debemos acceder a la página oficial de [WizTree](https://diskanalyzer.com/).Una vez en el sitio web, descargaremos la versión más reciente disponible.
 
-![Imagen_Descarga](image-1.png)
+![Imagen_Descarga](assets/WIZTREE/image-1.png)
 
 Tras completar la descarga, ejecutaremos el archivo de instalación y seguiremos los pasos del asistente, configurándolo según nuestras preferencias. Durante el proceso, el asistente nos solicitará:
 
