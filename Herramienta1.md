@@ -49,7 +49,7 @@ En la pestaña **"Mainboard"** , CPU-Z proporciona detalles sobre la placa base,
 * **BIOS** : Versión y fecha (importante para actualizaciones de seguridad).
 * **Chipset** : Controla buses como PCIe y USB.
 
-![Foto_pestaña_placa_base](assets/CPU-Z/20250402_011529_image.png)
+![assets/CPU-Z/](https://www.techpowerup.com/download/images/103_large.png)
 
 ---
 
