@@ -36,7 +36,7 @@ Abrimos la aplicación y selecciona la unidad de disco que deseamos analizar.
 
 En la parte superior de la ventana, encontraremos un menú desplegable donde podemos elegir el disco que deseas analizar. Hacemos clic en el botón **"Scan"**. Si el disco está en formato **NTFS**, el escaneo será casi instantáneo, ya que WizTree leerá directamente la tabla maestra de archivos (MFT).
 
-![Foto_pestaña_analizar_disco](assets/20250402_115355_image.png)
+![Foto_pestaña_analizar_disco](assets/WIZTREE/Captura%20de%20pantalla%202025-04-03%20191536.png)
 
 ---
 
@@ -48,7 +48,8 @@ Al seleccionar la unidad que deseamos analizar, haz clic en el botón **"Scan"**
 - **Gráfico "Treemap"**: Representación visual con bloques que indican el tamaño relativo de cada archivo o carpeta.
 - **Lista de tipos de archivos**: Clasificación por extensiones para identificar qué tipos de archivos ocupan más espacio.
 
-![Foto_pestaña_disco_analizado](assets/20250402_115535_image.png)
+![Foto_pestaña_disco_analizado](assets/WIZTREE/Captura%20de%20pantalla%202025-04-02%20115529.png)
+
 
 ---
 
@@ -56,7 +57,8 @@ Al seleccionar la unidad que deseamos analizar, haz clic en el botón **"Scan"**
 
 Si necesitamos encontrar un archivo específico, podemos usar la barra de búsqueda que aparece en la parte superior de la ventana. Solo tienemos que escribir el nombre del archivo o la extensión, y WizTree mostrará los resultados de manera instantánea.
 
-![Foto_pestaña_busqueda](assets/20250402_120826_image.png)
+![Foto_pestaña_busqueda](assets/WIZTREE/Captura%20de%20pantalla%202025-04-02%20120758.png)
+
 
 ---
 
@@ -70,7 +72,8 @@ Una vez que hayamos identificado archivos o carpetas que ocupan demasiado espaci
 
 Si deseas guardar los resultados del escaneo para analizarlos más tarde o compartirlos, puedes exportarlos en formato **CSV**. Para hacerlo, solo tienemos que hacer clic derecho en la carpeta/archivo y elegir la ubicación donde quieremos guardar el archivo.
 
-![Foto_pestaña_CSV](image.png)
+![Foto_pestaña_CSV](assets/WIZTREE/Captura%20de%20pantalla%202025-04-02%20120234.png)
+
 
 ---
 

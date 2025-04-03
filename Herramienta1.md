@@ -12,11 +12,11 @@ Además, CPU-Z ofrece datos sobre la memoria RAM, como su tipo, capacidad, frecu
 
 Para instalar esta herramienta, primero debemos acceder a la página oficial de [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html).Una vez en el sitio web, descargaremos la versión **"Classic Version Setup"** .
 
-![alt text](image-4.png)
+![CPU-Z](assets/CPU-Z/image-4.png)
 
-![alt text](image-3.png)
+![alt text](assets/CPU-Z/image-3.png)
 
- Tras completar la descarga, ejecutaremos el archivo de instalación y seguiremos los pasos del asistente, configurándolo según nuestras preferencias. Durante el proceso, el asistente nos solicitará:
+Tras completar la descarga, ejecutaremos el archivo de instalación y seguiremos los pasos del asistente, configurándolo según nuestras preferencias. Durante el proceso, el asistente nos solicitará:
 
 * Seleccionar el idioma
 * Aceptar los términos de uso
@@ -37,7 +37,7 @@ El procesador es el componente principal de un ordenador, y CPU-Z proporciona da
 * **Arquitectura** : Tecnología  y conjunto de instrucciones (AVX, SSE).
 * **Caché** : Niveles L1, L2, L3 .
 
-![Foto_pestaña_CPU](assets/20250402_011607_image.png)
+![Foto_pestaña_CPU](assets/CPU-Z/Captura%20de%20pantalla%202025-04-02%20011603.png)
 
 ---
 
@@ -49,7 +49,7 @@ En la pestaña **"Mainboard"** , CPU-Z proporciona detalles sobre la placa base,
 * **BIOS** : Versión y fecha (importante para actualizaciones de seguridad).
 * **Chipset** : Controla buses como PCIe y USB.
 
-![Foto_pestaña_placa_base](assets/20250402_011529_image.png)
+![Foto_pestaña_placa_base](assets/CPU-Z/20250402_011529_image.png)
 
 ---
 
@@ -61,7 +61,7 @@ Para visualizar la información de la memoria RAM, accede a la pestaña **"Memor
 * **Frecuencia** : Velocidad real.
 * **Modo de canal** : Dual/Quad Channel para mayor ancho de band
 
-![Foto_pestaña_RAM](assets/20250402_011707_image.png)
+![Foto_pestaña_RAM](assets/CPU-Z/Captura%20de%20pantalla%202025-04-02%20011654.png)
 
 ---
 
@@ -74,7 +74,7 @@ La pestaña **SPD** proporciona detalles técnicos sobre cada módulo de memoria
 * **Perfiles XMP/EXPO** : Muestra velocidades preconfiguradas para overclocking.
 * **Timings** : Latencia CAS , tRCD, tRP
 
-![Foto_pestaña_SPD](assets/20250402_012524_image.png)
+![Foto_pestaña_SPD](assets/CPU-Z/Captura%20de%20pantalla%202025-04-02%20012518.png)
 
 ---
 
@@ -87,7 +87,7 @@ La pestaña **Graphics** muestra información detallada sobre la GPU instalada, 
 * **Memoria** : Tipo, tamaño y ancho de banda.
 * **Versión del driver** : Útil para verificar actualizaciones.
 
-![Foto_pestaña_Graphics](assets/20250402_012600_image.png)
+![Foto_pestaña_Graphics](assets/CPU-Z/Captura%20de%20pantalla%202025-04-02%20012551.png)
 
 ---
 
@@ -99,7 +99,7 @@ La pestaña **Bench** permite evaluar el rendimiento del CPU y compararlo con ot
 * **Puntuación de referencia (Single/Multi-Core)** : Compara tu CPU con otros .
 * **Opción "Threads"** : Permite probar todos los núcleos o solo uno.
 
-![Foto_pestaña_Bench](assets/20250402_012648_image.png)
+![Foto_pestaña_Bench](assets/CPU-Z/Captura%20de%20pantalla%202025-04-02%20012634.png)
 
 ---
 

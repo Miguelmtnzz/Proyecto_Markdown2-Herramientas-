@@ -33,7 +33,7 @@ Dentro de **FurMark** encontraremos varias opciones y configuraciones para reali
 - **Resolución**: Permite seleccionar resoluciones como 1920x1080 (FHD) o personalizadas para adaptarse a las capacidades de la GPU.
 - **Modo de Pantalla**: Opciones como *Fullscreen* o ventana para ajustar el entorno de prueba.
 
-![Pestaña_ConfiguracionP](image-2.png)
+![Pestaña_ConfiguracionP](/assets/FurMark/Captura%20de%20pantalla%202025-04-03%20112902.png)
 
 ---
 
@@ -43,7 +43,7 @@ Dentro de **FurMark** encontraremos varias opciones y configuraciones para reali
 - **Burn-in Test**: Prueba de estrés prolongado para evaluar estabilidad térmica.
 - **Artifact Scanner**: Detecta errores visuales durante la prueba.
 
-![Pestaña_Tipos_de_Prueba](assets/20250403_111954_image.png)
+![Pestaña_Tipos_de_Prueba](assets/FurMark/Captura%20de%20pantalla%202025-04-03%20111920.png)
 
 ---
 
@@ -54,7 +54,7 @@ Dentro de **FurMark** encontraremos varias opciones y configuraciones para reali
 - **Consumo de Energía**: Datos como `chip power: 14W` o `power: 9W`.
 - **Frecuencias**: Relojes de núcleo y memoria (ejemplo: `core:1770MHz`, `mem:4001MHz`).
 
-![Pestaña_Monitoreo](assets/20250403_112249_image.png)
+![Pestaña_Monitoreo](assets/Furmark/Captura%20de%20pantalla%202025-04-03%20112225.png)
 
 ---
 
@@ -65,7 +65,7 @@ Dentro de **FurMark** encontraremos varias opciones y configuraciones para reali
 - **Frames Totales**: Cantidad de cuadros renderizados (ejemplo: `1278` en 10 segundos).
   
 
-![Pestaña_Métricas_de_Rendimiento](assets/20250403_112728_image.png)
+![Pestaña_Métricas_de_Rendimiento](assets/Furmark/Captura%20de%20pantalla%202025-04-03%20112535.png)
 
 ---
 
