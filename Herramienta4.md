@@ -16,7 +16,7 @@ Cinebench realiza una prueba de renderizado utilizando el motor gráfico de Cine
 
 Para instalar Cinebench, primero debemos acceder a la página oficial de [Cinebench](https://www.maxon.net/en/downloads/cinebench-2024-downloads) y descargar la versión correspondiente a nuestro sistema operativo.
 
-![download](assets/20250403_120347_image.png)
+![Download](image-10.png)
 
 Tras completar la descarga, descomprimimos la carpeta, buscamos el archivo Cinebench.exe y lo ejecutamos para comenzar la instalación. Seguimos el asistente seleccionando el idioma, aceptando los términos de uso y eligiendo la ubicación de instalación. Una vez instalado, podemos ejecutar el programa para realizar pruebas de rendimiento de la CPU y GPU.
 
