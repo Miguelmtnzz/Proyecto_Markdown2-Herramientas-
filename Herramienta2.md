@@ -12,7 +12,7 @@ Esta aplicación es especialmente útil para usuarios que desean probar la estab
 
 Una vez en el sitio web de [Geeks2](https://https://geeks3d.com/furmark/), descargaremos la versión más reciente disponible.
 
-![Download](assets/20250403_110234_image.png)
+![Download](assets/FurMark/Captura%20de%20pantalla%202025-04-03%20110231.png)
 
 Tras completar la descarga, ejecutaremos el archivo de instalación y seguiremos los pasos del asistente, configurándolo según nuestras preferencias. Durante el proceso, el asistente nos solicitará:
 
