@@ -54,7 +54,7 @@ Dentro de **FurMark** encontraremos varias opciones y configuraciones para reali
 - **Consumo de Energía**: Datos como `chip power: 14W` o `power: 9W`.
 - **Frecuencias**: Relojes de núcleo y memoria (ejemplo: `core:1770MHz`, `mem:4001MHz`).
 
-![MORITEO](assets/FurMark/Captura%20de%20pantalla%202025-04-04%20105520.png)
+![MORITEO](assets/FurMark/image.png)
 
 ---
 
@@ -64,7 +64,7 @@ Dentro de **FurMark** encontraremos varias opciones y configuraciones para reali
 - **Frame Time**: Tiempo por cuadro (ejemplo: `9.960 ms`).
 - **Frames Totales**: Cantidad de cuadros renderizados (ejemplo: `1278` en 10 segundos).
 
-![MORITEO](assets/FurMark/Captura%20de%20pantalla%202025-04-04%20105815.png)
+![MORITEO](assets/FurMark/image-1.png)
 
 ---
 
