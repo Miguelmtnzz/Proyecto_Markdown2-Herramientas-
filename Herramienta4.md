@@ -28,6 +28,8 @@ En Cinebench podemos encontrar tres secciones principales. La primera nos permit
 
 ![total](assets/CINE/Captura%20de%20pantalla%202025-04-03%20164702.png)
 
+---
+
 **1. Prueba de Rendimiento de un Solo Núcleo (Single-Core)**
 La prueba de rendimiento de un solo núcleo mide la capacidad de tu CPU para realizar tareas de un solo hilo. Este tipo de tareas es común en muchas aplicaciones antiguas o menos paralelizadas. En **Cinebench**, la prueba de un solo núcleo se realiza presionando el botón de **Single-Core**. Al finalizar, el programa te dará una puntuación que refleja cuán eficiente es tu CPU para este tipo de tareas.
 
